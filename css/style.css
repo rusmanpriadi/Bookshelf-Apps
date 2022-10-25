@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.progres {
+    height: 600px;
+    overflow-y: scroll;
+    background: #f9fcfd;
+}
+
+
+.text-small {
+    font-size: 0.7em;
+    color: rgb(58, 60, 63);
+}
+
+.textComment {
+    font-size: 0.8em;
+    color: rgb(58, 60, 63);
+}
+i {
+    cursor: pointer;
+    color: #333;
+}
+
+/* icon */
+a i:hover{
+    color: rgb(161, 156, 156);
+}
+
+/* icon panah  */
+a.arrowRight {
+    
+    text-align: right;
+  }
+
+img {
+ margin-right: 10px;
+}
+
+
+ul li {
+    transition: 0.2s;
+}
+ul li.book-list:hover {
+    transform: scale(1.03);
+}
+
+
+/* scroll */
+
+.progres::-webkit-scrollbar {
+    width: 3px;
+    padding: 6px;
+  }
+
+.progres::-webkit-scrollbar-thumb {
+    background-color: #828c91; 
+    border-radius: 10px;
+  
+  }
