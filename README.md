@@ -6,9 +6,9 @@ A simple Bookshelf app. Built with HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![gambar 2](images-readme/gambar%203.png)
+![gambar 2](images-readme/gambar%201.png)
 
-![gambar 2](images-readme/gambar%203.png)
+![gambar 2](images-readme/gambar%202.png)
 
 ![gambar 3](images-readme/gambar%203.png)
 
