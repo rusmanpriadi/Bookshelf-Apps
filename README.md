@@ -11,7 +11,7 @@ A simple Bookshelf app. Built with HTML, CSS, and JavaScript.
 ![gambar 2](images-readme/gambar 2.png)
 
 
-![gambar3](../images-readme/gambar 3.png)
+![gambar 3](../images-readme/gambar 3.png)
 
 ## Built With
 
