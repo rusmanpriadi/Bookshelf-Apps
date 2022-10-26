@@ -8,10 +8,10 @@ A simple Bookshelf app. Built with HTML, CSS, and JavaScript.
 
 <img src="images-readme/gambar 1.png>
 
-![gambar 2]()
+![gambar 2](images-readme/gambar 2.png)
 
 
-![gambar3](./images-readme/gambar 3.png)
+![gambar3](images-readme/gambar 3.png)
 
 ## Built With
 
