@@ -16,5 +16,5 @@ A simple Bookshelf app. Built with HTML, CSS, and JavaScript.
 
 - HTML
 - CSS
+- Bootstrap v5.2
 - JavaScript
-- Bootstrap
