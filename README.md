@@ -2,7 +2,7 @@
 
 A simple Bookshelf app. Built with HTML, CSS, and JavaScript.
 
-### [Live Demo](https://rusmanpriadi.github.io/bookshelf-apps/)
+### [Live Demo](https://rusmanpriadi.github.io/Bookshelf-apps/)
 
 ## Screenshots
 
